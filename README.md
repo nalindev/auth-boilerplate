@@ -1,3 +1,4 @@
+![1000008577](https://github.com/nalindev/auth-boilerplate/assets/86837840/96c80349-2909-485f-8044-1e17b44b6101)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
